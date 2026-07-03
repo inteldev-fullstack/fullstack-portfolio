@@ -30,10 +30,11 @@ I am a Full-Stack Web Developer focused on building secure, fast, and scalable w
 
 ## Portfolio Projects
 
-### 1. FastAPI Authentication API
-JWT authentication system with user registration, login, protected routes and database integration.
+# FastAPI Auth API
 
-Repository: https://github.com/inteldev-fullstack/fastapi-auth-api
+[![FastAPI Tests](https://github.com/inteldev-fullstack/fastapi-auth-api/actions/workflows/tests.yml/badge.svg)](https://github.com/inteldev-fullstack/fastapi-auth-api/actions/workflows/tests.yml)
+
+A clean FastAPI authentication API with user registration, login, JWT tokens and protected routes.
 
 ### 2. React Admin Dashboard
 Modern dashboard UI with charts, tables, authentication pages and responsive design.
